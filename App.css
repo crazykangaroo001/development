@@ -1,0 +1,74 @@
+/* Add styling for your page here */
+
+.App {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 7vh;
+}
+
+.itemContainer{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+gap: 7vh;
+width: 100%;
+}
+
+.cart{
+display: flex;
+padding: 20px;
+width: 90%;
+margin-bottom: 6vh;
+border-radius: 15px;
+flex-direction: column;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+background-color: lavender;
+}
+
+.ClubItem{
+  background-color: whitesmoke;
+  border-radius: 15px;
+  filter: drop-shadow(7px 7px lightgray);
+  width: 40%;
+}
+
+.filters{
+  display: flex;
+  justify-content: space-between;
+  width: 83%;
+  margin-bottom: 4vh;
+}
+
+.filterParams{
+  display: flex;
+  flex-direction: row;
+}
+
+.filter{
+  width: 250px;
+  margin-right: 15px;
+}
+
+h1{
+  text-align: center;
+  padding: 1.5rem;
+}
+
+#filterLabel{
+  text-align: center;
+  margin: auto;
+  padding-right:20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.summary{
+  width: 50%;
+}
+
