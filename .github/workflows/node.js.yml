@@ -35,6 +35,7 @@ jobs:
     - run: |
         sed -i "s/homepage.*/homepage\": \"$(sed 's@[/\&]@\\&@g;$!s/$/\\/' repository.txt)\",/g" package.json
     - run: rm repository.txt
+    - run: npm config set legacy-peer-deps true
     - run: npm install
     - run: npm run build
     - name: Deploy
