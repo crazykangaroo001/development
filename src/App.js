@@ -12,7 +12,7 @@ import {
   Divider,
 } from "@mui/material";
 import "typeface-bebas-neue";
-import Aggregator from "./components/DividerWithText";
+import Aggregator from "./components/Aggregator";
 
 /* ####### DO NOT TOUCH -- this makes the image URLs work ####### */
 clubData.forEach((item) => {

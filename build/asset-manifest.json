@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af5cd7e1.css",
+    "main.js": "/static/js/main.69a50af8.js",
+    "static/media/bebas-neue-latin-400.woff": "/static/media/bebas-neue-latin-400.1bb5d46b1b7e3c363c60.woff",
+    "static/media/bebas-neue-latin-400.woff2": "/static/media/bebas-neue-latin-400.d171c8391c9f0f0e51d2.woff2",
+    "index.html": "/index.html",
+    "main.af5cd7e1.css.map": "/static/css/main.af5cd7e1.css.map",
+    "main.69a50af8.js.map": "/static/js/main.69a50af8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af5cd7e1.css",
+    "static/js/main.69a50af8.js"
+  ]
+}
