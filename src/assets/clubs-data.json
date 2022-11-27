@@ -1,0 +1,123 @@
+[
+    {
+      "name": "180 Degrees at Brown University",
+      "description": "Brown’s 180 Degrees Consultants partner with non-profits and social enterprises within the local Providence community, supporting them to achieve and expand their  goals. They work with these organizations to develop innovative, practical and  sustainable solutions.",
+      "type": "Service",
+      "meeting": "Monday 5 - 6 pm",
+      "time": 8,
+      "image": "images/180.png"
+    },
+    {
+      "name": "AI Robotics Ethics Society",
+      "description": "Our main goal is to help students consider AI ethics before they move into industry. No matter what area of study a Brown student pursues, AI will undoubtedly impact all facets of society in the near future. Thus, it is important for students to learn the implications of modern AI systems.",
+      "type": "Academic & Professional",
+      "meeting": "Thursday 6 - 7 pm ",
+      "time": 3,
+      "image": "images/aires.png"
+    },
+    {
+      "name": "Alzheimer's Activists",
+      "description": "The mission of Brown Alzheimer’s Activists is to promote the advocacy of Alzheimer’s disease. Our goal is to spread awareness, educate students, and volunteer to improve the quality of life of those living with PD as well as their families/caregivers.",
+      "time": 3,
+      "meeting": "Thursday 8 - 9 pm",
+      "type":"Service",
+      "image": "images/aa.jpeg"
+    },
+    {
+      "name": "American Civil Liberties Union",
+      "description": "We are a campus chapter of the RI ACLU, dedicated to civil liberties education and advocacy on campus and in the community.",
+      "type": "Political",
+      "meeting": "Wednesday 5 - 6 pm",
+      "time": 5,
+      "image": "images/aclu.png"
+    },
+    {
+      "name": "Best Buddies at Brown",
+      "description": "We are the Brown University chapter of Best Buddies, a nonprofit committed to the social integration of people with intellectual and developmental disabilities (IDD).The goal of Best Buddies at Brown is to build meaningful friendships between students and adults with IDD.",
+      "type":"Service",
+      "time": 5,
+      "meeting": "Saturday 3 - 5 pm",
+      "image": "images/bb.jpeg"
+    },
+    {
+      "name": "Bear Necessities",
+      "description": "The Bear Necessities is Brown’s all-suspendered, all-homie acapella group, specializing in tenor-bass vocal performance. With our energetic style and unique sound, we blend high-quality music with exciting delivery to create an unforgettable performance.",
+      "type":"A Cappella",
+      "time": 5,
+      "meeting": "Tuesday 8 - 9 pm",
+      "image": "images/bn.png"
+    },
+    {
+      "name": "Better World By Design",
+      "description": "BWxD is a student-led initiative at Brown University and RISD that celebrates the interdisciplinary collaboration between designers, educators, and innovators. We envision a world where design-thinking is accessible so it may catalyze positive change on any scale.",
+      "type": "Academic & Professional",
+      "time": 8,
+      "meeting": "Saturday 2 - 5 pm ",
+      "image": "images/bwd.png"
+    },
+    {
+      "name": "Every Vote Counts",
+      "description": "EVC Brown is the Brown branch of a national organization dedicated to democracy, voting rights, and civic engagement, on campuses and in broader communities. During national elections, we work to increase participation and turnout in our communities.",
+      "type": "Political",
+      "time": 3,
+      "meeting": "Thursday 9 - 10 pm",
+      "image": "images/evc.png"
+    },
+    {
+      "name": "Brown Journal of World Affairs",
+      "description": "The Brown Journal of World Affairs is a 28 year-old, entirely student-run biannual publication that bridges the gap between academic discourse and mainstream media. The Journal features the work of academics, politicians, and practitioners in the world of international relations. ",
+      "type": "News & Publication",
+      "time": 8,
+      "meeting": "Tuesday 6 - 7 pm",
+      "image": "images/bjwa.jpeg"
+    },
+    {
+      "name": "Disney A Cappella",
+      "description": "We sing a cappella arrangements of Disney songs!",
+      "type":"A Cappella",
+      "time": 5,
+      "meeting": "Monday 8 - 9 pm",
+      "image": "images/disney.png"
+    },
+    {
+      "name": "Entrepreneurship Program",
+      "description": "Brown EP is a student-led entrepreneurship initiative backed by the Nelson Center for Entrepreneurship. We promote and encourage entrepreneurship on campus, in the local community, and throughout the Brown network.",
+      "type": "Academic & Professional",
+      "time": 8,
+      "meeting": "Sunday 8 - 9 pm",
+      "image": "images/ep.png"
+    },
+    {
+      "name": "Intercollegiate Finance Journal",
+      "description": "The Intercollegiate Finance Journal is an economic, finance, and political journal dedicated to making content that is fresh and fun. The Intercollegiate Finance Journal’s mission is to provide accessible, relevant, and entertaining financial content to a broad college audience.",
+      "type": "News & Publication",
+      "time": 8,
+      "meeting": "Tuesday 5 - 6 pm",
+      "image": "images/ifj.jpeg"
+    },
+    {
+      "name": "Jabberwocks",
+      "description": "We are an all-gender and all-voice parts a cappella group that performs both for the Brown community and for audiences all over the world. We rehearse 3 times a week and perform 3-4 times a year at Brown. We also record albums and go on tour twice a year.",
+      "type":"A Cappella",
+      "time": 5,
+      "meeting": "Friday 5 - 7 pm",
+      "image": "images/jb.jpeg"
+    },
+    {
+      "name": "Latinx Student Union",
+      "description": "Latinx Student Union hopes to highlight the diverse experiences, cultures, identities, and histories that live within our Latinx heritage. By fostering community amongst the student body, we will uplift and celebrate the culture and histories of our gente.",
+      "type": "Cultural & Ethnic",
+      "time": 3,
+      "meeting": "Wednesday 7 - 8 pm",
+      "image": "images/lsu.png"
+    },
+    {
+      "name": "Korean American Students Association",
+      "description": "The Korean-American Students Association, KASA, is a minority-student run organization with the goals of strengthening the Korean/Korean-American community and increasing knowledge of Korean cultural and ethnic attributes at Brown University.",
+      "type": "Cultural & Ethnic",
+      "time": 3,
+      "meeting": "Friday 8 - 9 pm",
+      "image": "images/kasa.jpeg"
+    }
+  ]
+  

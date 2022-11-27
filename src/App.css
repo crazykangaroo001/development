@@ -1,38 +1,74 @@
+/* Add styling for your page here */
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  align-items: center;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-bottom: 7vh;
 }
 
-.App-link {
-  color: #61dafb;
+.itemContainer{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+gap: 7vh;
+width: 100%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.cart{
+display: flex;
+padding: 20px;
+width: 90%;
+margin-bottom: 6vh;
+border-radius: 15px;
+flex-direction: column;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+background-color: lavender;
 }
+
+.ClubItem{
+  background-color: whitesmoke;
+  border-radius: 15px;
+  filter: drop-shadow(7px 7px lightgray);
+  width: 40%;
+}
+
+.filters{
+  display: flex;
+  justify-content: space-between;
+  width: 83%;
+  margin-bottom: 4vh;
+}
+
+.filterParams{
+  display: flex;
+  flex-direction: row;
+}
+
+.filter{
+  width: 250px;
+  margin-right: 15px;
+}
+
+h1{
+  text-align: center;
+  padding: 1.5rem;
+}
+
+#filterLabel{
+  text-align: center;
+  margin: auto;
+  padding-right:20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.summary{
+  width: 50%;
+}
+
