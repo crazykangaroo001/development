@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/development/static/css/main.0175fc18.css",
-    "main.js": "/development/static/js/main.64bf6c25.js",
+    "main.css": "/development/static/css/main.3fb612f5.css",
+    "main.js": "/development/static/js/main.f02a77ce.js",
     "static/media/bebas-neue-latin-400.woff": "/development/static/media/bebas-neue-latin-400.1bb5d46b1b7e3c363c60.woff",
     "static/media/bebas-neue-latin-400.woff2": "/development/static/media/bebas-neue-latin-400.d171c8391c9f0f0e51d2.woff2",
     "index.html": "/development/index.html",
-    "main.0175fc18.css.map": "/development/static/css/main.0175fc18.css.map",
-    "main.64bf6c25.js.map": "/development/static/js/main.64bf6c25.js.map"
+    "main.3fb612f5.css.map": "/development/static/css/main.3fb612f5.css.map",
+    "main.f02a77ce.js.map": "/development/static/js/main.f02a77ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.0175fc18.css",
-    "static/js/main.64bf6c25.js"
+    "static/css/main.3fb612f5.css",
+    "static/js/main.f02a77ce.js"
   ]
 }
